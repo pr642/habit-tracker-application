@@ -28,3 +28,5 @@ The Habit Tracker is a simple and effective tool to help you build and maintain 
 2. write the following commands :-
    a) npm install
    b) npm start
+
+## Hosted Link :- https://habit-tracker-hqty.onrender.com/
